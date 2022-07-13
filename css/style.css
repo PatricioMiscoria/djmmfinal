@@ -126,6 +126,7 @@ body{
     color: #fff;
     display: flex;
     align-self: center;
+    font-size: larger;
     /*border: solid 2px rgb(255, 255, 255);*/
 }
 
