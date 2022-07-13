@@ -1,0 +1,42 @@
+.contactos__claseSection form {
+  padding: 25px 20px;
+}
+.contactos__claseSection form h1 {
+  text-align: center;
+  color: #444;
+}
+.contactos__claseSection form input {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin: auto;
+  margin-top: 12px;
+  font-size: 16px;
+}
+
+.input__submit {
+  background-color: rgb(2, 18, 243);
+  color: #fff;
+  width: 100%;
+  height: 40px;
+  margin-top: 22px;
+  font-size: 16px;
+  border: ridge;
+}
+
+.ok {
+  text-align: center;
+  width: 100%;
+  padding: 12px;
+  background-color: rgba(81, 255, 0, 0.753);
+  color: #fff;
+}
+
+.error {
+  text-align: center;
+  width: 100%;
+  padding: 12px;
+  background-color: rgb(255, 0, 0);
+  color: #fff;
+}
+
+/*# sourceMappingURL=estilo2.css.map */
